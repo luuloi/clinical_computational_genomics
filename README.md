@@ -1,10 +1,10 @@
 # Clinical Computational Genomics
 
-## Part I: 
+## Part I: Background Preparation
 ### Lecture 0: Introduction to Next Generation Sequencing (NGS) and Long Read Sequencing
 - PDF
 - Database
-### Lecture 2: Introduction to Linux Operation System, Google Colab and Linux Command Lines
+### Lecture 2: Introduction to Linux Operation System, Google Drive & Colab and Linux Command Lines
 - PDF
 - Lab GGColab
 - Homework GGColab
