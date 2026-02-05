@@ -1,0 +1,57 @@
+# Clinical Computational Genomics
+
+## Part I: 
+### Lecture 0: Introduction to Next Generation Sequencing (NGS) and Long Read Sequencing
+- PDF
+- Database
+### Lecture 2: Introduction to Linux Operation System, Google Colab and Linux Command Lines
+- PDF
+- Lab GGColab
+- Homework GGColab
+### Lecture 3: Introduction to Programming Language R
+- PDF
+- Lab GGColab
+- Homework GGColab
+##
+## Part II: Bioinformatic Analysis for Whole Genome Sequencing of bacteria and fungi
+### Lecture 4:
+- PDF
+- Lab GGColab
+- Homework GGColab
+### Lecture 5: 
+- PDF
+- Lab GGColab
+- Homework GGColab
+### Lecture 6:
+- PDF
+- Lab GGColab
+- Homework GGColab
+##
+## Part III: Bioinformatic Analysis for Microbiome
+### Lecture 7:
+- PDF
+- Lab GGColab
+- Homework GGColab
+### Lecture 8: 
+- PDF
+- Lab GGColab
+- Homework GGColab
+### Lecture 9:
+- PDF
+- Lab GGColab
+- Homework GGColab
+##
+## Part IV: Bioinformatic Analysis for Whole Genome Sequencing of Targeted Panel
+### Lecture 10:
+- PDF
+- Lab GGColab
+- Homework GGColab
+### Lecture 11: 
+- PDF
+- Lab GGColab
+- Homework GGColab
+### Lecture 12:
+- PDF
+- Lab GGColab
+- Homework GGColab
+##
