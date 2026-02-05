@@ -13,7 +13,7 @@
 - Lab GGColab
 - Homework GGColab
 ##
-## Part II: Bioinformatic Analysis for Whole Genome Sequencing of bacteria and fungi
+## Part II: Bioinformatic Analysis for Whole Genome Sequencing of infection pathogens (Bacteria and Fungi)
 ### Lecture 4:
 - PDF
 - Lab GGColab
@@ -27,7 +27,7 @@
 - Lab GGColab
 - Homework GGColab
 ##
-## Part III: Bioinformatic Analysis for Microbiome
+## Part III: Bioinformatic Analysis for Human Microbiome
 ### Lecture 7:
 - PDF
 - Lab GGColab
@@ -41,7 +41,7 @@
 - Lab GGColab
 - Homework GGColab
 ##
-## Part IV: Bioinformatic Analysis for Whole Genome Sequencing of Targeted Panel
+## Part IV: Bioinformatic Analysis for Human Cancer Targeted Panel
 ### Lecture 10:
 - PDF
 - Lab GGColab
