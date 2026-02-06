@@ -50,7 +50,7 @@
 - PDF
 - Lab GGColab: Variant Calling and Filtering
 - Homework GGColab
-### Lecture 12: Introduction to Targeted Sequencing for Somatic Mutation Detection in Tissue & Liquid Biopsy of Cancer
+### Lecture 12: Introduction to Targeted Sequencing for Somatic Mutation Detection in Cancer using Tissue & Liquid Biopsy
 - PDF
 - Lab GGColab: Variant Annotation & Annotation Databases
 - Homework GGColab
