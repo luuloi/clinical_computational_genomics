@@ -16,15 +16,15 @@
 ## Part II: Bioinformatic Analysis for Whole Genome Sequencing (WGS) of infection pathogens (Bacteria and Fungi)
 ### Lecture 4: Detecting and Characterizing infection pathogens using Whole Genome Sequencing (WGS) in Clinical Setting
 - PDF
-- Lab GGColab: Whole-Genome Sequencing (WGS) Basic Analysis: From Data Quality Control, Mapping, Variant Calling to Clinical Report
+- Lab GGColab: Whole-Genome Sequencing (WGS) Basic Analysis: From Data Quality Control, Mapping, Variant Calling to Clinical Repor
 - Homework GGColab
 ### Lecture 5: Bacterial WGS Essentials — MLST Typing and Antimicrobial Resistance (AMR) Gene Profiling
 - PDF
-- Lab GGColab
+- Lab GGColab:  MLST typing
 - Homework GGColab
 ### Lecture 6: Fungal WGS Essentials — Targeted Resistance Markers from Whole-Genome Data
 - PDF
-- Lab GGColab
+- Lab GGColab: assembly genome, QC genome
 - Homework GGColab
 ##
 ## Part III: Bioinformatic Analysis for Human Microbiome
