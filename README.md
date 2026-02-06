@@ -24,7 +24,7 @@
 - Homework GGColab
 ### Lecture 6: Fungal WGS Essentials — Targeted Resistance Markers from Whole-Genome Data
 - PDF
-- Lab GGColab: assembly genome, QC genome
+- Lab GGColab: Assembly genome, QC genome
 - Homework GGColab
 ##
 ## Part III: Bioinformatic Analysis for Human Microbiome
