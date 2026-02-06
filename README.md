@@ -41,17 +41,17 @@
 - Lab GGColab
 - Homework GGColab
 ##
-## Part IV: Bioinformatic Analysis for Human Cancer Targeted Panel
-### Lecture 10: Raw Sequence Processing & Alignment
+## Part IV: Bioinformatic Analysis for Human Genomics
+### Lecture 10: Introduction to Targeted Sequencing for Germline Inherited Disease Detection
 - PDF
-- Lab GGColab
+- Lab GGColab: Raw Sequence Processing & Alignment
 - Homework GGColab
-### Lecture 11: Variant Calling and Filtering
+### Lecture 11: Introduction to Low-Pass (Coverage) Whole Genome Sequencing for Non-Invasive Prenatal Testing (NIPT) & Pre-implantation Genetic Testing for Aneuploidy (PGT-A) 
 - PDF
-- Lab GGColab
+- Lab GGColab: Variant Calling and Filtering
 - Homework GGColab
-### Lecture 12: Variant Annotation & Annotation Databases
+### Lecture 12: Introduction to Targeted Sequencing for Somatic Mutation Detection in Tissue & Liquid Biopsy of Cancer
 - PDF
-- Lab GGColab
+- Lab GGColab: Variant Annotation & Annotation Databases
 - Homework GGColab
 ##
