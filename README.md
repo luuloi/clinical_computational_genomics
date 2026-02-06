@@ -42,15 +42,15 @@
 - Homework GGColab
 ##
 ## Part IV: Bioinformatic Analysis for Human Cancer Targeted Panel
-### Lecture 10:
+### Lecture 10: Raw Sequence Processing & Alignment
 - PDF
 - Lab GGColab
 - Homework GGColab
-### Lecture 11: 
+### Lecture 11: Variant Calling and Filtering
 - PDF
 - Lab GGColab
 - Homework GGColab
-### Lecture 12:
+### Lecture 12: Variant Annotation & Annotation Databases
 - PDF
 - Lab GGColab
 - Homework GGColab
