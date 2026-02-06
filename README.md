@@ -14,15 +14,15 @@
 - Homework GGColab
 ##
 ## Part II: Bioinformatic Analysis for Whole Genome Sequencing (WGS) of infection pathogens (Bacteria and Fungi)
-### Lecture 4:
+### Lecture 4: Whole-Genome Sequencing (WGS) Basics, Data Quality, and Result Reporting
 - PDF
 - Lab GGColab
 - Homework GGColab
-### Lecture 5: 
+### Lecture 5: Bacterial WGS Essentials — MLST Typing and Antimicrobial Resistance (AMR) Gene Profiling
 - PDF
 - Lab GGColab
 - Homework GGColab
-### Lecture 6:
+### Lecture 6: Fungal WGS Essentials — Targeted Resistance Markers from Whole-Genome Data
 - PDF
 - Lab GGColab
 - Homework GGColab
