@@ -38,7 +38,7 @@
 - Homework GGColab
 ### Lecture 9: Clinical Application of Microbiome Analysis
 - PDF
-- Lab GGColab: Applying Amplicon Sequencing on Diagnosis
+- Lab GGColab: Applying Amplicon Sequencing for Diagnosis
 - Homework GGColab
 ##
 ## Part IV: Bioinformatic Analysis for Human Genomics
