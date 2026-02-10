@@ -3,7 +3,7 @@
 <p align="justify">The Clinical Computational Genomics course, as outlined in this repository, provides a comprehensive introduction to the algorithmic and statistical methods used to analyze large-scale genomic data with a focus on medical applications (Infectious Diseases and Human Genetic Diseases). The curriculum covers foundational bioinformatics topics such as sequence alignment Clustal, BWA, Bowtie (including Smith-Waterman and Needleman-Wunsch algorithms), BLAST and BLAT for gene prediction, gene annotation, and phylogenetic analysis. Additionally, the course delves into modern clinical workflows, including high-throughput sequencing data processing (FASTQC, Trimmomatic, Trimgalore...), variant calling (BCFTools and GATK), and the interpretation of genetic data for disease diagnosis and precision medicine. By combining theoretical lectures with practical computational exercises, the course prepares students to translate complex biological sequences into actionable clinical insights.</p>
 
 ## Part I: Background Preparation
-### <p align="justify"> Lecture 0: Introduction to Next Generation Sequencing (NGS) and Long Read Sequencing in Clinical Genomics </p>
+### Lecture 0: Introduction to Next Generation Sequencing (NGS) and Long Read Sequencing in Clinical Genomics
 - PDF
 - Database
 ### Lecture 2: Introduction to Linux Operation System, Google Drive & Colab, Github and Linux Command Lines
