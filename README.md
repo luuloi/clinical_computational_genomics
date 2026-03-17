@@ -7,7 +7,7 @@
 ####
 ## Part I: Background Preparation
 ### Lecture 1: Introduction to Next Generation Sequencing (NGS) and Long Read Sequencing in Clinical Genomics [Loi] - 16/03/2026, onsite
-- [PDF]()
+- [PDF](Lecture_01/Introduction_to_NGS_Loi_2026March16.pdf)
 - Databases: [NCBI](https://www.ncbi.nlm.nih.gov/), [ENCODE](https://www.gencodegenes.org/), [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) and [UCSC Genome Browser](https://genome.ucsc.edu/)
 ### Lecture 2: Introduction to Linux Operation System, Google Drive & Colab, Github and Linux Command Lines [Phuc, Hung, Loi] - 24/03/2026, onsite 
 - PDF
