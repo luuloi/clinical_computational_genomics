@@ -5,7 +5,7 @@
 ## Part I: Background Preparation
 ### Lecture 1: Introduction to Next Generation Sequencing (NGS) and Long Read Sequencing in Clinical Genomics
 - [PDF]()
-- Database: [NCBI](https://www.ncbi.nlm.nih.gov/), [ENCODE](https://www.gencodegenes.org/), [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) and [UCSC Genome Browser](https://genome.ucsc.edu/)
+- Databases: [NCBI](https://www.ncbi.nlm.nih.gov/), [ENCODE](https://www.gencodegenes.org/), [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) and [UCSC Genome Browser](https://genome.ucsc.edu/)
 ### Lecture 2: Introduction to Linux Operation System, Google Drive & Colab, Github and Linux Command Lines
 - PDF
 - Lab GGColab
