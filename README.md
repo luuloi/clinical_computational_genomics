@@ -14,7 +14,7 @@
 - Lab GGColab : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18pCXU8om8vvYoC10Cwb7x4ml0ihnknXb?usp=sharing)
 - Homework GGColab : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tYnG5H8EH90x59W-wqsqHNGbrH6HpIkE?usp=sharing)
 ### Lecture 3: Introduction to Programming Language R & Data Visualization with GGPlot [Dan, Loi] - 30/03/2026, online
-- PDF
+- [R cheatsheet](https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf)
 - Lab GGColab
 + Data
 - Homework GGColab
