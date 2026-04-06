@@ -25,7 +25,7 @@
 ## Part II: Bioinformatic Analysis for Whole Genome Sequencing (WGS) of infection pathogens (Bacteria and Fungi)
 ### Lecture 4: Detecting and Characterizing infection pathogens using Whole Genome Sequencing (WGS) in Clinical Setting [Tan, Phuc] - 06/4/2026, online
 - PDF
-- [Lab GGColab]:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ko8Yn4Ti9CPrOZ6dGUF7iEb_aMNtLFJl?usp=sharing)
+- Lab GGColab:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ko8Yn4Ti9CPrOZ6dGUF7iEb_aMNtLFJl?usp=sharing)
 - Homework GGColab
 - [Data](https://drive.google.com/drive/folders/1BeWwpzRWNL1W1nrKlMLBkeHj_ErDyLCh?usp=sharing)
 ### Lecture 5: Bacterial WGS Essentials — MLST Typing and Antimicrobial Resistance (AMR) Gene Profiling [Tan, Phuc] - 13/4/2026, online
