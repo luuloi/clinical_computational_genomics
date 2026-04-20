@@ -39,7 +39,7 @@
 ## Part III: Bioinformatic Analysis for Human Microbiome
 ### Lecture 7: Introduction to Microbiome [Khai, Hung, Phuc] - 27/4/2026, online
 - [PDF](Lecture_07/Lecture_07_Introduction_to_Microbiome.pdf)
-- Lab_07_Microbiome_data_exploration: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AswkD19F2vakpRdEysTafH--2y_oWpJA)
+- Lab GGColab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AswkD19F2vakpRdEysTafH--2y_oWpJA)
 - Homework GGColab
 ### Lecture 8: Sequencing strategies for Microbiome Analysis: Amplicon Sequencing and Shotgun Metagenomic [Khai, Hung, Phuc] - 04/5/2026, online
 - PDF
