@@ -34,7 +34,7 @@
 - Homework GGColab
 ### Lecture 6: Fungal WGS Essentials — Targeted Resistance Markers from Whole-Genome Data [Tan, Phuc] - 20/4/2026, online
 - PDF
-- Lab GGColab: Assembly genome, QC genome
+- Lab GGColab: [Open in Colab](https://colab.research.google.com/drive/1x28QRHKYykykZofCicTxEUI3TS3j_LTA?usp=sharing) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x28QRHKYykykZofCicTxEUI3TS3j_LTA?usp=sharing)
 - [Data](https://drive.google.com/drive/folders/1bm9spPIISfKSC7SZTSPJs6QDtpxefpsm?usp=sharing)
 ## Part III: Bioinformatic Analysis for Human Microbiome
 ### Lecture 7: Introduction to Microbiome [Khai, Hung, Phuc] - 27/4/2026, online
