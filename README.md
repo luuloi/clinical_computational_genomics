@@ -33,7 +33,7 @@
 - Lab GGColab: [MLST typing](https://colab.research.google.com/drive/1FgcF6vIb82E8Ih9QAn9EqPIT7S5EqeIx#scrollTo=FQJfePnInkfX) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FgcF6vIb82E8Ih9QAn9EqPIT7S5EqeIx#scrollTo=FQJfePnInkfX)
 - Homework GGColab
 ### Lecture 6: Fungal WGS Essentials — Targeted Resistance Markers from Whole-Genome Data [Tan, Phuc] - 20/4/2026, online
-- PDF
+- [PDF](./Lecture_06/Fungal_WGS_Essentials_Targeted_Resistance_Marker_from_Whole_Genome_Data.pdf)
 - Lab GGColab: [Open in Colab](https://colab.research.google.com/drive/1x28QRHKYykykZofCicTxEUI3TS3j_LTA?usp=sharing) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x28QRHKYykykZofCicTxEUI3TS3j_LTA?usp=sharing)
 - [Data](https://drive.google.com/drive/folders/1bm9spPIISfKSC7SZTSPJs6QDtpxefpsm?usp=sharing)
 ## Part III: Bioinformatic Analysis for Human Microbiome
