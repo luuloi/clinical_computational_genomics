@@ -32,34 +32,34 @@
 - [PDF](./Lecture_05/Bacterial_WGS_Essentials_MLST_Typing_and_Antimicrobial_Resistance_%28AMR%29_Gene_Profiling.pdf)
 - Lab GGColab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FgcF6vIb82E8Ih9QAn9EqPIT7S5EqeIx#scrollTo=FQJfePnInkfX)
 - Homework GGColab
-### Lecture 6: Fungal WGS Essentials — Targeted Resistance Markers from Whole-Genome Data [Tan, Phuc] - 20/4/2026, online
+### Lecture 6: Fungal WGS Essentials — Targeted Resistance Markers from Whole-Genome Data [Tan, Phuc] - 20/4/2026, onsite
 - [PDF](./Lecture_06/Fungal_WGS_Essentials_Targeted_Resistance_Marker_from_Whole_Genome_Data.pdf)
 - Lab GGColab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x28QRHKYykykZofCicTxEUI3TS3j_LTA?usp=sharing)
 - [Data](https://drive.google.com/drive/folders/1bm9spPIISfKSC7SZTSPJs6QDtpxefpsm?usp=sharing)
 ## Part III: Bioinformatic Analysis for Human Microbiome
-### Lecture 7: Introduction to Microbiome [Khai, Hung, Phuc] - 27/4/2026, online
+### Lecture 7: Introduction to Microbiome [Khai, Hung, Phuc] - 27/4/2026, onsite
 - [PDF](Lecture_07/Lecture_07_Introduction_to_Microbiome.pdf)
 - Lab GGColab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AswkD19F2vakpRdEysTafH--2y_oWpJA)
 - Homework GGColab
-### Lecture 8: Sequencing strategies for Microbiome Analysis: Amplicon Sequencing and Shotgun Metagenomic [Khai, Hung, Phuc] - 04/5/2026, online
+### Lecture 8: Sequencing strategies for Microbiome Analysis: Amplicon Sequencing and Shotgun Metagenomic [Khai, Hung, Phuc] - 04/5/2026, onsite
 - PDF
 - Lab GGColab: Amplicon Sequencing and Shotgun Metagenomic pipelines
 - Homework GGColab
-### Lecture 9: Clinical Application of Microbiome Analysis [Khai, Hung, Phuc] - 11/5/2026, online
+### Lecture 9: Clinical Application of Microbiome Analysis [Khai, Hung, Phuc] - 11/5/2026, onsite
 - PDF
 - Lab GGColab: Applying Amplicon Sequencing for Diagnosis
 - Homework GGColab
 ##
 ## Part IV: Bioinformatic Analysis for Human Genomics
-### Lecture 10: Introduction to Targeted Sequencing for Germline Inherited Disease Detection [Giau, Hung] - 18/5/2026, online
+### Lecture 10: Introduction to Targeted Sequencing for Germline Inherited Disease Detection [Giau, Hung] - 18/5/2026, onsite
 - PDF
 - Lab GGColab: Raw Sequence Processing & Alignment; IGV Germline Variant Visualization
 - Homework GGColab
-### Lecture 11: Introduction to Low-Pass (Coverage) Whole Genome Sequencing (WGS) for Non-Invasive Prenatal Testing (NIPT) & Pre-implantation Genetic Testing for Aneuploidy (PGT-A) [Duy, Kim] - 25/5/2026, online
+### Lecture 11: Introduction to Low-Pass (Coverage) Whole Genome Sequencing (WGS) for Non-Invasive Prenatal Testing (NIPT) & Pre-implantation Genetic Testing for Aneuploidy (PGT-A) [Duy, Kim] - 25/5/2026, onsite
 - PDF
 - Lab GGColab: Variant Calling and Filtering
 - Homework GGColab
-### Lecture 12: Introduction to Targeted Sequencing for Somatic Mutation Detection in Cancer using Tissue & Liquid Biopsy [Hung, Loi] - 01/6/2026, Onsite
+### Lecture 12: Introduction to Targeted Sequencing for Somatic Mutation Detection in Cancer using Tissue & Liquid Biopsy [Hung, Loi] - 01/6/2026, onsite
 - PDF
 - Lab GGColab: Variant Annotation & Annotation Databases
 - Homework GGColab
