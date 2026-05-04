@@ -37,7 +37,7 @@
 - Lab GGColab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x28QRHKYykykZofCicTxEUI3TS3j_LTA?usp=sharing)
 - [Data](https://drive.google.com/drive/folders/1bm9spPIISfKSC7SZTSPJs6QDtpxefpsm?usp=sharing)
 ## Part III: Bioinformatic Analysis for Human Microbiome
-### Lecture 7: Introduction to Microbiome [Khai, Hung, Phuc] - 27/4/2026, onsite
+### Lecture 7: Introduction to Microbiome [Phuc] - 27/4/2026, onsite
 - [PDF](Lecture_07/Lecture_07_Introduction_to_Microbiome.pdf)
 - Lab GGColab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AswkD19F2vakpRdEysTafH--2y_oWpJA)
 - Homework GGColab
