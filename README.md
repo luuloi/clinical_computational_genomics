@@ -55,11 +55,11 @@
 - PDF
 - Lab GGColab: Raw Sequence Processing & Alignment; IGV Germline Variant Visualization
 - Homework GGColab
-### Lecture 11: Introduction to Low-Pass (Coverage) Whole Genome Sequencing (WGS) for Non-Invasive Prenatal Testing (NIPT) & Pre-implantation Genetic Testing for Aneuploidy (PGT-A) [Duy, Kim] - 25/5/2026, onsite
+### Lecture 11: Introduction to Low-Pass (Coverage) Whole Genome Sequencing (WGS) for Non-Invasive Prenatal Testing (NIPT) & Pre-implantation Genetic Testing for Aneuploidy (PGT-A) [Duy] - 25/5/2026, onsite
 - PDF
 - Lab GGColab: Variant Calling and Filtering
 - Homework GGColab
-### Lecture 12: Introduction to Targeted Sequencing for Somatic Mutation Detection in Cancer using Tissue & Liquid Biopsy [Hung, Loi] - 01/6/2026, onsite
+### Lecture 12: Introduction to Targeted Sequencing for Somatic Mutation Detection in Cancer using Tissue & Liquid Biopsy [Hung, Tra] - 01/6/2026, onsite
 - PDF
 - Lab GGColab: Variant Annotation & Annotation Databases
 - Homework GGColab
